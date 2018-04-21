@@ -1,0 +1,550 @@
+<resources>
+    <string name="app_name">English Learning</string>
+    <string name="type_answer">Type answer</string>
+    <string name="done">Done</string>
+    <string name="wait_for_words_to_be_prepared">Wait for words to be prepared</string>
+    <string name="correct_ans">Correct answers:</string>
+    <string name="wrong_ans">Wrong answers:</string>
+
+    <string-array name="units_numbers">
+        <item>Unit 4</item>
+        <item>Unit 5</item>
+        <item>Unit 6</item>
+        <item>Unit 7</item>
+        <item>Unit 8</item>
+        <item>Unit 9</item>
+        <item>Unit 10</item>
+    </string-array>
+
+    <string-array name="units_themes">
+        <item>PROGRAMMING LANGUAGES</item>
+        <item>COMPUTER NETWORKING</item>
+        <item>COMPUTER GRAPHICS</item>
+        <item>MULTIMEDIA</item>
+        <item>TELECOMMUNICATION</item>
+        <item>VIRTUAL REALITY</item>
+        <item>COMPUTER SECURITY</item>
+    </string-array>
+
+    <string-array name="unit_4_en">
+        <item>abstraction</item>
+        <item>algorithm</item>
+        <item>artificial</item>
+        <item>cognitive science</item>
+        <item>compute</item>
+        <item>computation</item>
+        <item>concept</item>
+        <item>constraint</item>
+        <item>construct</item>
+        <item>descendant</item>
+        <item>domain-specific</item>
+        <item>execute</item>
+        <item>feature</item>
+        <item>footprint</item>
+        <item>GOTO statements</item>
+        <item>implement</item>
+        <item>implementation</item>
+        <item>lambda calculus</item>
+        <item>mnemonic</item>
+        <item>mode</item>
+        <item>multi-disciplinary field</item>
+        <item>object-oriented</item>
+        <item>programming</item>
+        <item>polymorphic</item>
+        <item>programming language</item>
+        <item>punch card</item>
+        <item>require</item>
+        <item>scratch</item>
+        <item>syntax</item>
+        <item>written specification</item>
+        <item>update</item>
+    </string-array>
+
+    <string-array name="unit_4_ru">
+        <item>абстракция</item>
+        <item>алгоритм</item>
+        <item>искусственный</item>
+        <item>когнитивная наука</item>
+        <item>вычислять</item>
+        <item>вычисление</item>
+        <item>концепция</item>
+        <item>ограничение</item>
+        <item>сооружать</item>
+        <item>потомок</item>
+        <item>предметно-ориентированный</item>
+        <item>выполнять</item>
+        <item>особенность</item>
+        <item>след</item>
+        <item>Заявления GOTO</item>
+        <item>воплощать в жизнь</item>
+        <item>реализация</item>
+        <item>лямбда-исчисление</item>
+        <item>мнемонический</item>
+        <item>Режим</item>
+        <item>многодисциплинарное поле</item>
+        <item>объектно-ориентированный</item>
+        <item>программирование</item>
+        <item>полиморфный</item>
+        <item>язык программирования</item>
+        <item>перфокарта</item>
+        <item>требовать</item>
+        <item>царапина</item>
+        <item>синтаксис</item>
+        <item>письменная спецификация</item>
+        <item>Обновить</item>
+    </string-array>
+
+    <string-array name="unit_5_en">
+        <item>backbone</item>
+        <item>bridge</item>
+        <item>cable</item>
+        <item>calculation</item>
+        <item>capacity</item>
+        <item>communication</item>
+        <item>conduct</item>
+        <item>content provider</item>
+        <item>converge</item>
+        <item>deploy</item>
+        <item>dissimilar</item>
+        <item>Domain Name System</item>
+        <item>exchange data</item>
+        <item>flow</item>
+        <item>Frame Relay</item>
+        <item>gateway</item>
+        <item>hierarchical</item>
+        <item>High-Level Data Link</item>
+        <item>Control</item>
+        <item>host</item>
+        <item>hub</item>
+        <item>interconnect</item>
+        <item>IP address</item>
+        <item>layout</item>
+        <item>multiple connection</item>
+        <item>network hub</item>
+        <item>networking</item>
+        <item>peer-to-peer</item>
+        <item>Point-to-Point Protocol</item>
+        <item>provide information</item>
+        <item>rely on</item>
+        <item>router</item>
+        <item>routing protocol</item>
+        <item>server</item>
+        <item>socket</item>
+        <item>specification</item>
+        <item>time-sharing</item>
+        <item>topology</item>
+        <item>wire</item>
+    </string-array>
+
+    <string-array name="unit_5_ru">
+        <item>позвоночник</item>
+        <item>мост</item>
+        <item>кабель</item>
+        <item>расчет</item>
+        <item>вместимость</item>
+        <item>связь</item>
+        <item>поведение</item>
+        <item>поставщик услуг</item>
+        <item>сходиться</item>
+        <item>развертывание</item>
+        <item>непохожий</item>
+        <item>система доменных имен</item>
+        <item>обмен данными</item>
+        <item>течь</item>
+        <item>Ретрансляция кадров</item>
+        <item>шлюз</item>
+        <item>иерархическая</item>
+        <item>Ссылка на данные высокого уровня</item>
+        <item>контроль</item>
+        <item>хозяин</item>
+        <item>хаб</item>
+        <item>межсоединений</item>
+        <item>айпи адрес</item>
+        <item>расположение</item>
+        <item>множественное соединение</item>
+        <item>сетевой концентратор</item>
+        <item>сетей</item>
+        <item>пиринговый</item>
+        <item>Протокол «точка-точка»</item>
+        <item>предоставить информацию</item>
+        <item>полагаться на</item>
+        <item>маршрутизатор</item>
+        <item>протокол маршрутизации</item>
+        <item>сервер</item>
+        <item>разъем</item>
+        <item>Спецификация</item>
+        <item>совместное времяпровождение</item>
+        <item>топология</item>
+        <item>провод</item>
+    </string-array>
+
+    <string-array name="unit_6_en">
+        <item>aesthetic</item>
+        <item>although</item>
+        <item>boundary</item>
+        <item>capture</item>
+        <item>conjunction</item>
+        <item>content</item>
+        <item>data-driven</item>
+        <item>define</item>
+        <item>detract</item>
+        <item>differentiate</item>
+        <item>dimension</item>
+        <item>discrete</item>
+        <item>encompass</item>
+        <item>exterior</item>
+        <item>finite</item>
+        <item>fluid</item>
+        <item>foundation</item>
+        <item>frame</item>
+        <item>illumination</item>
+        <item>issue</item>
+        <item>jerkiness</item>
+        <item>keyframing</item>
+        <item>limbs</item>
+        <item>mesh</item>
+        <item>polygonal</item>
+        <item>reinforce</item>
+        <item>representation</item>
+        <item>rig</item>
+        <item>sample</item>
+        <item>setting</item>
+        <item>shape</item>
+        <item>similar</item>
+        <item>spatial</item>
+        <item>standalone</item>
+        <item>temporal</item>
+        <item>transparent</item>
+        <item>visibility</item>
+    </string-array>
+
+    <string-array name="unit_6_ru">
+        <item>эстетический</item>
+        <item>несмотря на то что</item>
+        <item>граница</item>
+        <item>захватить</item>
+        <item>конъюнкция</item>
+        <item>содержание</item>
+        <item>управляемых данными</item>
+        <item>определять</item>
+        <item>умалять</item>
+        <item>дифференцировать</item>
+        <item>измерение</item>
+        <item>дискретный</item>
+        <item>охватывать</item>
+        <item>экстерьер</item>
+        <item>конечный</item>
+        <item>жидкость</item>
+        <item>Фонд</item>
+        <item>Рамка</item>
+        <item>освещение</item>
+        <item>вопрос</item>
+        <item>подергивание</item>
+        <item>ключевые кадры</item>
+        <item>конечности</item>
+        <item>меш</item>
+        <item>полигональный</item>
+        <item>усиливать</item>
+        <item>представление</item>
+        <item>установка</item>
+        <item>образец</item>
+        <item>установка</item>
+        <item>форма</item>
+        <item>аналогичны</item>
+        <item>пространственный</item>
+        <item>автономный</item>
+        <item>временной</item>
+        <item>прозрачный</item>
+        <item>видимость</item>
+    </string-array>
+
+    <string-array name="unit_7_en">
+        <item>access</item>
+        <item>advertisement</item>
+        <item>appropriate</item>
+        <item>bitmap</item>
+        <item>blend</item>
+        <item>blurring</item>
+        <item>combine</item>
+        <item>content</item>
+        <item>convergence</item>
+        <item>convey</item>
+        <item>delay</item>
+        <item>deliver</item>
+        <item>determine</item>
+        <item>display</item>
+        <item>divide into</item>
+        <item>download</item>
+        <item>enable</item>
+        <item>enhance</item>
+        <item>feature</item>
+        <item>haptic</item>
+        <item>incorporate</item>
+        <item>install</item>
+        <item>interactivity</item>
+        <item>linear</item>
+        <item>modifiable</item>
+        <item>plug-in</item>
+        <item>predictability</item>
+        <item>reduce</item>
+        <item>self-paced</item>
+        <item>simulation</item>
+        <item>survivability</item>
+        <item>upload</item>
+        <item>volatile</item>
+    </string-array>
+
+    <string-array name="unit_7_ru">
+        <item>доступ</item>
+        <item>Реклама</item>
+        <item>подходящее</item>
+        <item>битовая карта</item>
+        <item>смесь</item>
+        <item>нечеткость</item>
+        <item>скомбинировать</item>
+        <item>содержание</item>
+        <item>конвергенция</item>
+        <item>передавать</item>
+        <item>задержка</item>
+        <item>доставить</item>
+        <item>определить</item>
+        <item>дисплей</item>
+        <item>разделить на</item>
+        <item>скачать</item>
+        <item>включить</item>
+        <item>усилить</item>
+        <item>особенность</item>
+        <item>тактильный</item>
+        <item>инкорпорировать</item>
+        <item>устанавливать</item>
+        <item>интерактивность</item>
+        <item>линейный</item>
+        <item>модифицируемый</item>
+        <item>вставной</item>
+        <item>предсказуемость</item>
+        <item>уменьшить</item>
+        <item>для самостоятельного</item>
+        <item>моделирование</item>
+        <item>выживаемость</item>
+        <item>загружать</item>
+        <item>летучий</item>
+    </string-array>
+
+    <string-array name="unit_8_en">
+        <item>access</item>
+        <item>allocate</item>
+        <item>browser</item>
+        <item>chunk</item>
+        <item>convert</item>
+        <item>customize</item>
+        <item>derive</item>
+        <item>destine</item>
+        <item>discrete</item>
+        <item>division</item>
+        <item>encode</item>
+        <item>ensure</item>
+        <item>eventually</item>
+        <item>familiar</item>
+        <item>handle</item>
+        <item>investigate</item>
+        <item>involve</item>
+        <item>layered</item>
+        <item>medium</item>
+        <item>merge</item>
+        <item>multiple</item>
+        <item>padlock</item>
+        <item>recurring</item>
+        <item>regardless</item>
+        <item>restrict</item>
+        <item>route</item>
+        <item>router</item>
+        <item>run</item>
+        <item>stack</item>
+        <item>vary</item>
+    </string-array>
+
+    <string-array name="unit_8_ru">
+        <item>доступ</item>
+        <item>выделять</item>
+        <item>браузер</item>
+        <item>ломоть</item>
+        <item>конвертировать</item>
+        <item>настроить</item>
+        <item>выводить</item>
+        <item>предопределять</item>
+        <item>дискретный</item>
+        <item>деление</item>
+        <item>шифровать</item>
+        <item>обеспечивать</item>
+        <item>в итоге</item>
+        <item>знакомые</item>
+        <item>ручка</item>
+        <item>исследовать</item>
+        <item>включать</item>
+        <item>слоистый</item>
+        <item>средний</item>
+        <item>сливаться</item>
+        <item>множественный</item>
+        <item>замок</item>
+        <item>повторяющаяся</item>
+        <item>несмотря на</item>
+        <item>ограничивать</item>
+        <item>маршрут</item>
+        <item>маршрутизатор</item>
+        <item>бег</item>
+        <item>стек</item>
+        <item>варьировать</item>
+    </string-array>
+
+    <string-array name="unit_9_en">
+        <item>awareness</item>
+        <item>couple</item>
+        <item>data gloves</item>
+        <item>demand</item>
+        <item>dimension</item>
+        <item>extensive</item>
+        <item>force feedback</item>
+        <item>hamper</item>
+        <item>haptic</item>
+        <item>helmet</item>
+        <item>imaginary</item>
+        <item>immersion</item>
+        <item>Implementation</item>
+        <item>Innovative</item>
+        <item>Interactivity</item>
+        <item>involve</item>
+        <item>mapping</item>
+        <item>mounted (head mounted display)</item>
+        <item>multithreading</item>
+        <item>omnidirectional treadmill</item>
+        <item>reflective</item>
+        <item>resolution</item>
+        <item>response</item>
+        <item>schematic</item>
+        <item>screen</item>
+        <item>simulation</item>
+        <item>simultaneously</item>
+        <item>superimpose</item>
+        <item>surroundings</item>
+        <item>telemetry</item>
+        <item>tracking</item>
+        <item>visor</item>
+        <item>wireless</item>
+    </string-array>
+
+    <string-array name="unit_9_ru">
+        <item>осознание</item>
+        <item>пара</item>
+        <item>перчатки для данных</item>
+        <item>спрос</item>
+        <item>измерение</item>
+        <item>экстенсивный</item>
+        <item>с силовой обратной связью</item>
+        <item>затруднять</item>
+        <item>тактильный</item>
+        <item>шлем</item>
+        <item>воображаемый</item>
+        <item>погружение</item>
+        <item>Реализация</item>
+        <item>инновационный</item>
+        <item>интерактивность</item>
+        <item>включать</item>
+        <item>отображение</item>
+        <item>смонтированный (головной дисплей)</item>
+        <item>многопоточность</item>
+        <item>всенаправленная беговая дорожка</item>
+        <item>отражающий</item>
+        <item>разрешающая способность</item>
+        <item>ответ</item>
+        <item>схематический</item>
+        <item>экран</item>
+        <item>моделирование</item>
+        <item>одновременно</item>
+        <item>накладывать</item>
+        <item>окружение</item>
+        <item>телеметрия</item>
+        <item>отслеживание</item>
+        <item>козырек</item>
+        <item>беспроводной</item>
+    </string-array>
+
+    <string-array name="unit_10_en">
+        <item>adjust</item>
+        <item>backdoor</item>
+        <item>bypass</item>
+        <item>collapse</item>
+        <item>compromise</item>
+        <item>conceal</item>
+        <item>copyrighted</item>
+        <item>disguise</item>
+        <item>disseminate</item>
+        <item>hacking</item>
+        <item>header</item>
+        <item>header field</item>
+        <item>hijacking</item>
+        <item>hoax</item>
+        <item>hostile</item>
+        <item>inhibit</item>
+        <item>innocuous</item>
+        <item>intruder</item>
+        <item>intrusive</item>
+        <item>legitimate</item>
+        <item>malicious</item>
+        <item>menace</item>
+        <item>mischief</item>
+        <item>nefarious</item>
+        <item>overwrite</item>
+        <item>piggybacking</item>
+        <item>propagate</item>
+        <item>relay</item>
+        <item>replicate</item>
+        <item>scam</item>
+        <item>self-contained</item>
+        <item>sneaky</item>
+        <item>subtle</item>
+        <item>tamper</item>
+        <item>trigger</item>
+        <item>vendor</item>
+        <item>vigilant</item>
+    </string-array>
+
+    <string-array name="unit_10_ru">
+        <item>регулировать</item>
+        <item>задняя дверь</item>
+        <item>байпас</item>
+        <item>коллапс</item>
+        <item>компромисс</item>
+        <item>скрывать</item>
+        <item>авторские права</item>
+        <item>маскировать</item>
+        <item>распространять</item>
+        <item>взлом</item>
+        <item>заголовок</item>
+        <item>поле заголовка</item>
+        <item>угон самолета</item>
+        <item>обман</item>
+        <item>враждебный</item>
+        <item>препятствовать</item>
+        <item>безвредный</item>
+        <item>нарушитель</item>
+        <item>назойливый</item>
+        <item>законный</item>
+        <item>злонамеренный</item>
+        <item>угроза</item>
+        <item>несчатье</item>
+        <item>бесчестный</item>
+        <item>затирать</item>
+        <item>продажа с нагрузкой</item>
+        <item>размножать</item>
+        <item>реле</item>
+        <item>копировать</item>
+        <item>мошенничество</item>
+        <item>автономный</item>
+        <item>подлый</item>
+        <item>тонкий</item>
+        <item>подделывать</item>
+        <item>вызывать</item>
+        <item>продавец</item>
+        <item>бдительный</item>
+    </string-array>
+</resources>
